@@ -1,0 +1,35 @@
+{
+  "name": "rent-bike",
+  "version": "1.0.0",
+  "description": "自行車道地圖資訊整合網",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "jssha": "^3.2.0",
+    "leaflet": "^1.7.1",
+    "vue": "^3.2.16",
+    "vue-axios": "^3.3.7"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.10.2",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolasLien/rent-bike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BolasLien/rent-bike/issues"
+  },
+  "homepage": "https://github.com/BolasLien/rent-bike#readme"
+}
